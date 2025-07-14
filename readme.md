@@ -71,8 +71,8 @@ This project is a backend RESTful API built with **FastAPI**, designed to collec
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/wheel-specification-api.git
-cd wheel-specification-api
+git clone https://github.com/GouravJoshi19/kpa-forms.git
+cd kpa-forms.git
 ```
 
 ### 2. Create & Activate Virtual Environment
@@ -124,17 +124,9 @@ Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) for interactive S
 
 | Label              | Video Link                                      |
 |--------------------|-------------------------------------------------|
-| `project-features` | [Watch Video](https://drive.google.com/link1)   |
-| `project-technical`| [Watch Video](https://drive.google.com/link2)   |
+| `project-features` | [Watch Video](https://drive.google.com/file/d/1dbbI5IVs-RoIz9MH-OYtT4lUM5s4ZcjJ/view?usp=sharing)   |
+| `project-technical`| [Watch Video](https://drive.google.com/file/d/1aOM6pCxoeX6HgenosE7S-yVkikcV4Fe9/view?usp=sharing)   |
 
----
-
-## 📄 Deliverables
-
-- ✅ Source code (GitHub or zipped)
-- ✅ README file with setup and API usage
-- ✅ Postman Collection with sample requests
-- ✅ Video explanation (project features + technical)
 
 ---
 
@@ -142,7 +134,7 @@ Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) for interactive S
 
 - No authentication implemented.
 - `formNumber` must be unique.
-- Required fields are validated via Pydantic.
+- Required fields are validated only via Pydantic.
 - Only JSON inputs accepted.
 
 ---
@@ -154,5 +146,4 @@ Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) for interactive S
 - ✅ Auto-generated Swagger documentation
 
 ---
-
 
